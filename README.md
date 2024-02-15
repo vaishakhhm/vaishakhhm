@@ -1,6 +1,6 @@
 Hi, I’m Vaishakh 👋 
 
-I'm a software developer living in Mumbai, India. I work as a Sr. Software Developer in a startup organization, where my job is to develop and maintain stock market trading application, write strategies and guide the young minds of the organization. <br>
+I'm a software developer living in Mumbai, India. I work as a Software Developer, where my job is to develop and maintain various trading application, write strategies and guide the young minds of the organization. <br>
 I have experience in C++, C#, Linux and MySQL, including some in embeded systems.
 
 Connect me on.<br>
